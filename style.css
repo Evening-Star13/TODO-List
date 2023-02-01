@@ -1,6 +1,6 @@
-/* body {
-  background-image: linear-gradient(90deg, rgb(102, 17, 117),rgb(106, 20, 213),rgb(104, 19, 165));
-} */
+body {
+  background-color: #000;
+}
 
 .card,
 .card-action,
